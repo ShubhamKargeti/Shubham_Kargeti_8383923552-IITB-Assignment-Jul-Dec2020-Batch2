@@ -1,1 +1,1 @@
-
+8-Aug, 11:17 - I have never created dataset on my owm so I spent whole day to find out how all the text generator repository works and then how to convert it into tf.records and now I have finally figure out everything about creating dataset so now I am going to create it.
